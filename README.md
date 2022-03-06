@@ -1,30 +1,27 @@
-# This is a large heading
+#My First Repo#
 
-## This is a smaller heading
+##Scope##
+- this is just a practice repo
+- experiment with markdown
+- familiarize with github features and basic commands
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+###Practice Repo###
+- hardly any actual code here
+- I will probably experiment with shell scripts in 2nd repo
 
-- This is
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
+###Experiment with Markdown###
+1. style with *italics*
+2. style with **bold**
+3. use inline code like `git add -A`
+4. use a block of code
 ```
-This is
-a block
-of code
+for $i in {1..10}
+do
+	touch file$i.txt 
+	mv file$i.txt ~/Documents
+done
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+###Github Features###
+- [click here](https://github.com/simulacc/my-first-repo/) to access this repo
+- ![here is the github logo](https://pngimg.com/image/73372)
